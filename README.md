@@ -24,9 +24,9 @@ This is a no-code AI-powered application built using **Glide** that generates in
 - Tested & refined for better accuracy
 
 ## Live Demo
-[Click here to try the app](PASTE-YOUR-APP-LINK)
+https://ai-interview-coach-fh9l.glide.page
 
 ## Contact
 If you'd like to collaborate or learn more about this project, feel free to connect:
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn:https://www.linkedin.com/in/niharika-mishra-aa721b374/
 - Email: niharikamishra381@gmail.com
